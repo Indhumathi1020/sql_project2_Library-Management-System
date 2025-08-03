@@ -23,6 +23,11 @@ This project demonstrates the implementation of a **Library Management System** 
 
 ### 1. Database Setup
 
+## 📊 Entity Relationship Diagram (ERD)
+
+![Library Management System ERD](sql_project_2LMS_EER.png)
+
+
 **Database Creation**
 ```sql
 CREATE DATABASE library_db;

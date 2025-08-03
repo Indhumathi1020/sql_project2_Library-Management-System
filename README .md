@@ -254,7 +254,3 @@ This project demonstrates key SQL skills in setting up and managing a Library Ma
 
 ---
 
-## 📎 References
-
-- MySQL Documentation: https://dev.mysql.com/doc/
-- SQL Syntax Reference: https://www.w3schools.com/sql/

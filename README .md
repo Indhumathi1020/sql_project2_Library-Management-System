@@ -25,7 +25,8 @@ This project demonstrates the implementation of a **Library Management System** 
 
 ## 📊 Entity Relationship Diagram (ERD)
 
-![Library Management System ERD](Library%20System%20Management_ENR_Diagram.png)
+![Library System Management ERD](Library%20System%20Management_ENR_Diagram.png)
+
 
 **Database Creation**
 ```sql
